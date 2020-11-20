@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Hierarchy
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1002
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -95,7 +95,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 15
+  controlID: 34
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 21
+  controlID: 60
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -393,9 +393,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f6330000
-    m_LastClickedID: 13302
-    m_ExpandedIDs: 00000000dc330000fc3300000234000000ca9a3b
+    m_SelectedIDs: 2c340000
+    m_LastClickedID: 13356
+    m_ExpandedIDs: 0000000012340000143400001634000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,7 +423,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 28410000
     m_LastClickedID: 16680
-    m_ExpandedIDs: 00000000dc330000
+    m_ExpandedIDs: 00000000123400001434000016340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -548,11 +548,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 977
-      height: 910
+      height: 931
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 488.5, y: 455}
+    m_Translation: {x: 488.5, y: 465.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -560,9 +560,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -488.5
-      y: -455
+      y: -465.5
       width: 977
-      height: 910
+      height: 931
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 977, y: 931}
@@ -657,7 +657,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0051558972, y: 0.991919, z: 0.04286796, w: -0.11930242}
     speed: 2
-    m_Value: {x: 0.004790677, y: 0.9925088, z: 0.041402, w: -0.11484488}
+    m_Value: {x: 0.0051558972, y: 0.991919, z: 0.042867955, w: -0.11930242}
   m_Size:
     m_Target: 2.0939128
     speed: 2
@@ -715,9 +715,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d0cbffff
-      m_LastClickedID: -13360
-      m_ExpandedIDs: 98e5ffffb2ecffff6afbffff
+      m_SelectedIDs: b4330000
+      m_LastClickedID: 13236
+      m_ExpandedIDs: 68fbffff6afbffffac330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

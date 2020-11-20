@@ -5338,8 +5338,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 0.6666667, g: 0.7056396, b: 1, a: 0.03529412}
-      maxColor: {r: 0.68155974, g: 0.64705884, b: 1, a: 0.12156863}
+      minColor: {r: 0.4392157, g: 0.77254903, b: 1, a: 0.03529412}
+      maxColor: {r: 0.64705884, g: 0.7134126, b: 1, a: 0.15686275}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -9819,7 +9819,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.70651406, g: 0.3915094, b: 1, a: 1}
-  m_Intensity: 5
+  m_Intensity: 19
   m_Range: 50
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
